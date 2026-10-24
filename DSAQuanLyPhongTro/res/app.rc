@@ -1,4 +1,0 @@
-// Tài nguyên: manifest bật giao diện Common Controls v6 (nút, bảng hiển thị theo theme Windows)
-#include <windows.h>
-
-CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "app.manifest"
